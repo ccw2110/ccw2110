@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Tecnical Skills
+.NET Framework, Node.js, React, 
+Database Management : SQL Server, HANA, MySQL
