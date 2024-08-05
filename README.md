@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Tecnical Skills
-.NET Framework, Node.js, React, 
-Database Management : SQL Server, HANA, MySQL
+* .NET Framework, Node.js, React, 
+* Database Management : SQL Server, HANA, MySQL
